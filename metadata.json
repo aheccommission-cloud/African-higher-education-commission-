@@ -1,0 +1,6 @@
+{
+  "name": "African Higher Education Commission",
+  "description": "Streamlining accreditation processes, institutional registration, real-time application tracking, and digital credential verification across member nations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
